@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-🔭 I’m constangly working on improving myself. I had a job in college at a manufacturing company. Everyday they would instill in us, the Japanese word KAIZEN. It means continuous improvement. Needless to say, I have been inductrinated.
+🔭 I’m constantly working on improving myself. I had a job in college at a manufacturing company. Everyday they would instill in us, the Japanese word KAIZEN. It means continuous improvement. Needless to say, I have been inductrinated.
 
 👯 I love learning new technologies and would love to collaborate on anything new and exciting using my favorite language, Python or Java.
 
