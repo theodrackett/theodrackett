@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Theo Drackett</h1>
 <h3 align="center">A seasoned SDET from San Francisco Bay Area</h3>
 
-- 🔭 I’m currently working on Street Vendor APP on IC https://github.com/theodrackett/svh
+- 🔭 I’m currently working on [Street Vendor APP on IC](https://github.com/theodrackett/svh)
 
 - 🌱 I’m always learning **React, Node.js, JavaScript, Python**
 
