@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Theo Drackett</h1>
 <h3 align="center">A seasoned SDET from San Francisco Bay Area</h3>
 
-- 🔭 I’m currently working on [Street Vendor APP on IC](https://github.com/theodrackett/svh)
+- 🔭 I’m currently working on [Street Vendor APP on IC](https://edpah-uyaaa-aaaaj-qa54a-cai.icp0.io/)
 
 - 🌱 I’m always learning **React, Node.js, JavaScript, Python**
 
-- 👯 I’m looking to collaborate on [Street Vendor Helper app](https://github.com/theodrackett/SVH-iPhone.git)
+- 👯 I’m looking to collaborate on [Street Vendor Helper app](https://github.com/theodrackett/svh)
 
-- 🤝 I’m looking for help with [Street Vendor Helper app](https://github.com/theodrackett/SVH-iPhone.git)
+- 🤝 I’m looking for help with [Street Vendor Helper app](https://github.com/theodrackett/svh)
 
 - 👨‍💻 All of my projects are available at [https://github.com/theodrackett/theodrackett](https://github.com/theodrackett/theodrackett)
 
